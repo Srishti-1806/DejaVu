@@ -224,13 +224,10 @@ Crafted with 💡, 🤖, and ☕ by passionate students/developers focused on bu
                     LinkedIn : https://www.linkedin.com/in/srishti-mishra-25b666328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
-🧑‍🔬 Satyam Gupta – DeBugger and Deployment
-                   GitHub   : https://github.com/1WINgFIRE1
-                   LinkedIn : 
+🧑‍🔬 Akash Srivastav - Deployment and Debugger
+                     GitHub   : 
+                     LinkedIn : 
 
-🧑‍🔬 Piyush Yadav – Deployment & Chat - Community Integration
-                   GitHub   : https://github.com/Piyushydv08
-                   LinkedIn : 
 
 
 COULD NOT BE DEPLOYED ON FREE TIER OF AWS, WAS COSTING US SEVERAL DOLLARS.
